@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<exception:Exceptions xmlns:exception="http://www.test.com" Name="auth" Version="1" Class="com.test.b.s.auth.constant.AuthExceptionConstant">
+    <Exception Name="USERID_NULL" Id="60101030001" Module="60101" SubModule="6010103" Level="2" Type="110">
+        <HelpTips>S.AUTH.USERID_NULL.HELP</HelpTips>
+        <Titel>S.AUTH.USERID_NULL.TITLE</Titel>
+        <Description>S.AUTH.USERID_NULL.DESC</Description>
+    </Exception>
+    <Exception Name="ROLEID_NULL" Id="60101030002" Module="60101" SubModule="6010103" Level="2" Type="110">
+        <HelpTips>S.AUTH.ROLEID_NULL.HELP</HelpTips>
+        <Titel>S.AUTH.ROLEID_NULL.TITLE</Titel>
+        <Description>S.AUTH.ROLEID_NULL.DESC</Description>
+    </Exception>
+    <Exception Name="AUTHID_NULL" Id="60101030003" Module="60101" SubModule="6010103" Level="2" Type="110">
+        <HelpTips>S.AUTH.AUTHID_NULL.HELP</HelpTips>
+        <Titel>S.AUTH.AUTHID_NULL.TITLE</Titel>
+        <Description>S.AUTH.AUTHID_NULL.DESC</Description>
+    </Exception>
+</exception:Exceptions>

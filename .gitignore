@@ -95,3 +95,6 @@ ENV/
 #macos
 .DS_store
 
+#output&test
+output/
+test.py

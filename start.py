@@ -6,7 +6,7 @@ from toExcel import *
 codePath = r"/Users/hhxi/GitProjects/ExceptionToExcel/TestData/Foundation"
 
 #将指定代码根路径下的所有java文件、异常定义文件及语言文件进行索引
-#index(codePath)
+index(codePath)
 print("已完成文件索引")
 
 
